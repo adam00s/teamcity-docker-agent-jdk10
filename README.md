@@ -4,6 +4,8 @@ This is mutation of https://github.com/JetBrains/teamcity-docker-agent changed t
 
 It needs image crated by https://github.com/adam00s/teamcity-docker-minimal-agent-jdk10 in local docker.
 
+Should be used for https://github.com/adam00s/teamcity-docker-agent-with-jdk1x
+
 ## build script on linux
 
 ```
