@@ -1,4 +1,4 @@
-FROM teamcity-minimal-agent:latest
+FROM teamcity-minimal-agent-jdk11:latest
 
 LABEL dockerImage.teamcity.version="latest" \
       dockerImage.teamcity.buildNumber="latest"
